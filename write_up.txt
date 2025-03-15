@@ -1,0 +1,82 @@
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 78.34413935200064 MSE: 17.16655921936035 Coverage: 0.486
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 82.94590724499903 MSE: 17.16655921936035 Coverage: 0.486
+Bnn Variational xsin(x+5), Width: 100 Depth: 5 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 206.88179484299872 MSE: 32.3493537902832 Coverage: 0.3932
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 82.0100650129989 MSE: 17.16655921936035 Coverage: 0.486
+Bnn Variational xsin(x+5), Width: 100 Depth: 5 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 180.15279940999972 MSE: 32.3493537902832 Coverage: 0.3932
+Bnn Variational xsin(x+5), Width: 100 Depth: 10 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 367.21415593299935 MSE: 122.76651000976562 Coverage: 0.214
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0 Epochs: 4000 Samples: 100
+Training time: 48.19966467499944 MSE: 13.983656883239746 Coverage: 0.2866
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.5 Epochs: 4000 Samples: 100
+Training time: 69.24796863200027 MSE: 44.578678131103516 Coverage: 0.6804
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 10000 Samples: 100
+Training time: 169.21743080599845 MSE: 17.173551559448242 Coverage: 0.414
+Bnn Variational xsin(x+5), Width: 500 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 535.183957053001 MSE: 46.57282638549805 Coverage: 0.8076
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 469.02089030499883 MSE: 14.802581787109375 Coverage: 0.9468
+Bnn Mcmc xsin(x+5), Width: 50 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 756.6485346129994 MSE: 15.358325004577637 Coverage: 0.9486
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 493.46154055199986 MSE: 14.703202247619629 Coverage: 0.9485
+Bnn Mcmc xsin(x+5), Width: 50 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 692.1085109849992 MSE: 15.105855941772461 Coverage: 0.9468
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 506.42255160499917 MSE: 14.9157133102417 Coverage: 0.9466
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 5 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 489.7922180630012 MSE: 14.842698097229004 Coverage: 0.9474
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 10 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 474.173054531002 MSE: 14.840896606445312 Coverage: 0.9476
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 200 Samples: 100
+Training time: 2117.335172837 MSE: 8.232168197631836 Coverage: 0.9536
+Gaussian Process xsin(x+5), Width: 10 Depth: 2 Dropout: 0.1 Epochs: 10 Samples: 100
+Training time: 36.63502729699758 MSE: 3.1963138580322266 Coverage: 0.8655
+Gaussian Process xsin(x+5), Width: 10 Depth: 2 Dropout: 0.1 Epochs: 50 Samples: 100
+Training time: 112.83200754100108 MSE: 3.0150372982025146 Coverage: 0.9362
+Gaussian Process xsin(x+5), Width: 10 Depth: 2 Dropout: 0.1 Epochs: 100 Samples: 100
+Training time: 199.3435492259996 MSE: 2.9696805477142334 Coverage: 0.9569
+Standard Nn xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 80.93478340000001 MSE: 7.939396858215332 Coverage: 0.2168
+Standard Nn xsin(x+5), Width: 100 Depth: 5 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 178.1331051800007 MSE: 9.675727844238281 Coverage: 0.2066
+Standard Nn xsin(x+5), Width: 100 Depth: 10 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 340.2499645320022 MSE: 92.90406799316406 Coverage: 0.2466
+Standard Nn xsin(x+5), Width: 100 Depth: 2 Dropout: 0 Epochs: 4000 Samples: 100
+Training time: 61.81659630300055 MSE: 7.336185932159424 Coverage: 0.0
+Standard Nn xsin(x+5), Width: 100 Depth: 2 Dropout: 0.5 Epochs: 4000 Samples: 100
+Training time: 80.32983638099904 MSE: 17.891393661499023 Coverage: 0.5092
+Standard Nn xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 10000 Samples: 100
+Training time: 199.09795852699972 MSE: 10.102923393249512 Coverage: 0.2054
+Standard Nn xsin(x+5), Width: 500 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100
+Training time: 777.8592490910014 MSE: 22.39908790588379 Coverage: 0.4927
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100 sigma: 0.05
+Training time: 68.32983035200232 MSE: 16.1821346282959 Coverage: 0.4711
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100 sigma: 0.3
+Training time: 68.24229590299728 MSE: 42.19790267944336 Coverage: 0.7284
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100 sigma: 1
+Training time: 68.31342935800058 MSE: 138.33047485351562 Coverage: 0.8409
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 4000 Samples: 100 mu: 2
+Training time: 69.20594814200012 MSE: 21.028274536132812 Coverage: 0.5297
+Bnn Variational xsin(x+5), Width: 1 Depth: 1 Dropout: 0 Epochs: 4000 Samples: 100
+Training time: 7.584261320000223 MSE: 125.24264526367188 Coverage: 0.0631
+Bnn Variational xsin(x+5), Width: 1 Depth: 2 Dropout: 0 Epochs: 4000 Samples: 100
+Training time: 11.369469146004121 MSE: 120.65714263916016 Coverage: 0.0629
+Bnn Variational xsin(x+5), Width: 1 Depth: 1 Dropout: 0 Epochs: 4000 Samples: 100
+Training time: 7.814924168000289 MSE: 124.78671264648438 Coverage: 0.0551
+Bnn Variational xsin(x+5), Width: 1 Depth: 1 Dropout: 0 Epochs: 100 Samples: 100
+Training time: 1.0029057920000923 MSE: 141.11940002441406 Coverage: 0.1145
+Bnn Variational xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 100 Samples: 100
+Training time: 3.563103268999839 MSE: 121.47777557373047 Coverage: 0.7324
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 10 Samples: 100
+Training time: 13.296338354000909 MSE: 117.39237213134766 Coverage: 0.954
+Gaussian Process xsin(x+5), Width: 10 Depth: 2 Dropout: 0.1 Epochs: 10 Samples: 100
+Training time: 35.03188533099819 MSE: 3.197129011154175 Coverage: 0.8656
+Standard Nn xsin(x+5), Width: 100 Depth: 2 Dropout: 0.1 Epochs: 100 Samples: 100
+Training time: 3.3315528220009583 MSE: 21.848909378051758 Coverage: 0.4633
+Bnn Mcmc xsin(x+5), Width: 20 Depth: 2 Dropout: 0.1 Epochs: 20 Samples: 100
+Training time: 12.193982659999165 MSE: 34.89580154418945 Coverage: 0.9299
